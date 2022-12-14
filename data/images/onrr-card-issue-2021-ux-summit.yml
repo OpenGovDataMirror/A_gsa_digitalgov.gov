@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/onrr-card-issue-2021-ux-summit.png
+
+# Image shortcode: {{< img src="onrr-card-issue-2021-ux-summit" >}}
+
+date     : 2021-12-16 19:47:29 -0400
+uid      : onrr-card-issue-2021-ux-summit
+width    : 1284
+height   : 553
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Screenshot showing how participants moving the card is tracked in the GitHub issue for the card. It shows an open issue in GitHub for the card. The title of the issue is Freedom of Information Act (FOIA). The updates in the issue show that I have put the card in the Uncategorized category for several participants and that the nrrdparticipant account we use for participants moved the card a couple of times in the GitHub project we used to test the process." 

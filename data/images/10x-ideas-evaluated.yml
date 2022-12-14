@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/10x-ideas-evaluated.png
+
+# Image shortcode: {{< img src="10x-ideas-evaluated" >}}
+
+date     : 2022-03-15 22:18:39 -0400
+uid      : 10x-ideas-evaluated
+width    : 1200
+height   : 783
+format   : png
+credit   : "" 
+caption  : "Figure 1: Ideas We Evaluated. A round donut chart shows the percentages for submitted ideas. GSA employees, shown in lavender, accounted for 18.8 percent of submissions; the remaining 81.2 percent, shown in purple, were submissions from federal employees outside of GSA." 
+alt      : "The caption below this first of two charts has the description." 

@@ -1,0 +1,181 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+*/
+
+// -------------------------------------
+// Import individual theme settings
+
+@forward 'uswds-theme';
+@forward 'uswds-overrides';
+@forward "usa-site-alert";
+
+// @forward "uswds-global";
+// @forward "uswds-utilities";
+
+// component class names
+// @forward 'usa-accordion';
+// @forward 'usa-banner';
+// @forward 'usa-button';
+// @forward 'usa-footer';
+// @forward 'usa-header';
+// @forward 'usa-icon';
+// @forward 'usa-identifier';
+// @forward 'usa-input';
+// @forward 'usa-intro';
+// @forward 'usa-layout-docs';
+// @forward 'usa-link';
+// @forward 'usa-list';
+// @forward 'usa-nav';
+// @forward 'usa-prose';
+// @forward 'usa-search';
+// @forward 'usa-section';
+// @forward 'usa-sidenav';
+// @forward 'usa-skipnav';
+
+@forward "usa-accordion/src/styles";
+@forward "usa-banner/src/styles";
+@forward "usa-button/src/styles";
+@forward "usa-card/src/styles";
+@forward "usa-collection/src/styles";
+@forward "usa-footer/src/styles";
+@forward "usa-header/src/styles";
+@forward "usa-icon/src/styles";
+@forward "usa-identifier/src/styles";
+@forward 'usa-input/src/styles';
+@forward "usa-intro/src/styles";
+@forward 'usa-layout-docs/src/styles';
+@forward "usa-layout-grid/src/styles";
+@forward "usa-link/src/styles";
+@forward "usa-list/src/styles";
+@forward "usa-prose/src/styles";
+@forward "usa-media-block/src/styles";
+@forward "usa-nav/src/styles";
+@forward "usa-search/src/styles";
+@forward "usa-section/src/styles";
+@forward "usa-sidenav/src/styles";
+@forward "usa-skipnav/src/styles";
+@forward "uswds-global";
+@forward "uswds-utilities";
+@forward "uswds-fonts";
+
+// @forward '../uswds/uswds-theme-general';
+// @forward '../uswds/uswds-theme-typography';
+// @forward '../uswds/uswds-theme-spacing';
+// @forward '../uswds/uswds-theme-color';
+// @forward '../uswds/uswds-theme-utilities';
+// @forward '../uswds/uswds-theme-components';
+
+// -------------------------------------
+// Import individual USWDS modules...
+
+// @forward 'uswds-fonts';
+// @forward 'uswds-layout-grid';
+// @forward 'uswds-components';
+// @forward 'uswds-utilities';
+
+// -------------------------------------
+// ...or import all USWDS modules
+//@forward 'uswds-theme-custom-styles';
+//@forward 'uswds';
+
+// -------------------------------------
+// Import theme custom styles
+
+@forward 'layout';
+@forward 'gov-banner';
+@forward 'paper';
+
+@forward 'header';
+
+@forward 'newsletter-signup';
+@forward 'footer';
+
+@forward 'promos';
+@forward 'stream';
+
+@forward 'touchpoints-form';
+@forward 'icons';
+
+// Cards
+@forward 'card';
+@forward 'card-article';
+@forward 'card-elsewhere';
+@forward 'card-event';
+
+@forward 'article';
+@forward 'page-head';
+
+@forward 'news';
+@forward 'events';
+@forward 'table-of-contents';
+@forward 'content';
+@forward 'images';
+@forward 'resources';
+
+// Lists of related pages
+@forward 'collection';
+
+@forward 'page-data';
+@forward 'share-tools';
+
+@forward 'guides/guide-header';
+@forward 'guides/guide-nav';
+@forward 'guides/guide-page-head';
+@forward 'guides/guide-toc';
+@forward 'guides/guide-content';
+@forward 'guides/guide-prev-next';
+
+// Authors lists
+@forward 'authors-list';
+@forward 'authors-list-short';
+
+// Authors profile
+@forward 'author-profile';
+
+@forward 'notice-bar';
+@forward 'search-bar';
+
+@forward 'related_promos';
+@forward 'video';
+
+// Homepage Styles
+@forward 'home/home';
+@forward 'home/events';
+@forward 'home/topics_featured';
+@forward 'resources_featured';
+@forward 'home/communities';
+
+@forward 'community-info';
+
+@forward 'related_communities';
+@forward 'services';
+@forward 'related_services';
+@forward 'services-directory';
+@forward 'card-service';
+@forward 'service-contact';
+
+// Topics styles
+@forward 'topic-buttons';
+@forward 'list-topics';
+
+@forward 'breadcrumbs';
+@forward 'buttons';
+
+// Edit Tools
+@forward 'edit-this';
+
+@forward 'shortcodes/accordion';
+@forward 'shortcodes/box';
+@forward 'shortcodes/note';
+@forward 'shortcodes/highlight';
+@forward 'shortcodes/card-policy';
+@forward 'shortcodes/card-quote';
+@forward 'shortcodes/asset-img';
+@forward 'shortcodes/card-prompt';
+@forward 'shortcodes/termsofservice-compatible';

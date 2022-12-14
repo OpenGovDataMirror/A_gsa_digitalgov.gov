@@ -1,0 +1,13 @@
+# This image is available at:
+# https://s3.amazonaws.com/digitalgov/onrr-organized-cards-2021-ux-summit.png
+
+# Image shortcode: {{< img src="onrr-organized-cards-2021-ux-summit" >}}
+
+date     : 2021-12-16 19:47:29 -0400
+uid      : onrr-organized-cards-2021-ux-summit
+width    : 1862
+height   : 804
+format   : png
+credit   : "" 
+caption  : "" 
+alt      : "Screenshot of our test has cards organized into categories using a GitHub project. There are five columns. From left to right, the Uncategorized column has 19 cards, the About ONRR column has six cards, the Trainings column has five cards, the Pricing column has five cards, and the Rules & Regulations column has eight cards." 
